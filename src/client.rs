@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 DCsunset
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 use crate::{core::DhtResult, rpc::NodeServiceClient};
 use log::info;
 use tarpc::tokio_serde::formats::Bincode;

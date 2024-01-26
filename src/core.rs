@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 DCsunset
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 pub mod config;
 pub mod data_store;
 pub mod error;

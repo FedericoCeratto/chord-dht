@@ -1,3 +1,9 @@
+// SPDX-FileCopyrightText: 2022 DCsunset
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
+//! CLI
+
 use anyhow::anyhow;
 use chord_dht::{client::setup_client, rpc::NodeServiceClient};
 use clap::Parser;

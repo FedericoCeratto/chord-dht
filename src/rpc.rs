@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 DCsunset
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 use crate::core::{
     data_store::{Key, Value},
     ring::Digest,

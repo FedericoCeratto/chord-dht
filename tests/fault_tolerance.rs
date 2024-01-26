@@ -1,3 +1,9 @@
+// SPDX-FileCopyrightText: 2022 DCsunset
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
+//! Fault tolerance tests
+
 use chord_dht::{
     client::setup_client,
     core::{config::*, Node, NodeServer},
